@@ -1,7 +1,7 @@
 {
-    "name": "sunhater/kcfinder",
+    "name": "balrok/kcfinder",
     "description": "KCFinder web file manager",
-    "version": "3.20-test2",
+    "version": "3.21",
     "type": "library",
     "keywords": [
         "kcfinder",
@@ -13,7 +13,6 @@
         "file explorer"
     ],
     "homepage": "http://kcfinder.sunhater.com",
-    "time": "2014-08-24",
     "license": [
         "GPL-3.0+",
         "LGPL-3.0+"
@@ -24,12 +23,16 @@
             "email": "sunhater@sunhater.com",
             "homepage": "http://sunhater.com",
             "role": "Developer"
+        },
+        {
+            "name": "Carl Mai",
+            "email": "carl.schoenbach@gmail.com",
+            "role": "Developer"
         }
     ],
     "support": {
-        "email": "sunhater@sunhater.com",
-        "issues": "https://github.com/sunhater/kcfinder/issues",
-        "source": "https://github.com/sunhater/kcfinder"
+        "issues": "https://github.com/balrok/yii2-rss/issues",
+        "source": "https://github.com/balrok/yii2-rss"
     },
     "require": {
         "php": ">=5.3.0",

@@ -1,3 +1,6 @@
+This is a fork of kcfinder to integrate some pull requests and make it public on packagist.
+If the original author will continue maintaining kcfinder, this fork will be deleted.. otherwise I'm open for more pull-requests from you :D
+
 # KCFinder web file manager
 http://kcfinder.sunhater.com  
 Pavel Tzonkov (sunhater@sunhater.com)
